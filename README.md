@@ -7,8 +7,3 @@
 - 📫 How to reach me:- TEL: 0743602795 Email: laytonmatheka7@gmail.com
 
 
-For Python, enter :snake: Python
-For HTML, enter :globe_with_meridians: HTML
-For CSS, enter :art: CSS
-For JavaScript, enter :sparkles: JavaScript
-For PHP, enter :elephant: PHP
