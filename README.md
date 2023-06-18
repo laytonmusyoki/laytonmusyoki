@@ -7,8 +7,7 @@
 - 📫 How to reach me:- TEL: 0743602795 Email: laytonmatheka7@gmail.com
 
 
-![Python Logo](https://www.python.org/static/img/python-logo.png)
-![Flask Logo](https://flask.palletsprojects.com/en/2.1.x/_static/flask-icon.png)
-![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)
-
+<img src="https://www.python.org/static/img/python-logo.png" alt="Python Logo" width="50" height="50">
+<img src="https://flask.palletsprojects.com/en/2.1.x/_static/flask-icon.png" alt="Flask Logo" width="50" height="50">
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django Logo" width="50" height="50">
 
