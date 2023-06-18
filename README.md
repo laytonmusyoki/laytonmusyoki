@@ -8,6 +8,8 @@
 
 
 With knowledge in:
- :snake: 
-sparkles:
-
+ Python :snake:
+HTML :globe_with_meridians:
+CSS :art:
+JavaScript :sparkles:
+PHP :elephant:
