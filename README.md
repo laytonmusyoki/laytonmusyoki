@@ -8,8 +8,7 @@
 
 
 With knowledge in:
+
  Python :snake:
-HTML :globe_with_meridians:
-CSS :art:
-JavaScript :sparkles:
-PHP :elephant:
+Flask: :wine_glass:
+Django: :spider_web:
