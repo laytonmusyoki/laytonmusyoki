@@ -8,6 +8,6 @@
 
 
 With knowledge in:
-Python :snake:
-
+ :snake: 
+sparkles:
 
