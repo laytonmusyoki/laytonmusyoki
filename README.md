@@ -13,3 +13,8 @@ With knowledge in:
 Flask: :wine_glass:
 Django: :spider_web:
 
+![Python Logo](path/to/python-logo.png)
+![Flask Logo](path/to/flask-logo.png)
+![Django Logo](path/to/django-logo.png)
+
+
