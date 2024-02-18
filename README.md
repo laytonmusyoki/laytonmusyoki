@@ -32,8 +32,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laytonmusyoki&" alt="laytonmusyoki" /></p>
 
-<div style="flex: 50%; padding: 10px;">
-    <h2>📈 Most Used Languages</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laytonmusyoki&theme=blue-green" alt="Most Used Languages" />
-  </div>
 
