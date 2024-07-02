@@ -59,5 +59,3 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=laytonmusyoki&theme=dark)](https://git.io/streak-stats)
-
