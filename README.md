@@ -36,4 +36,4 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laytonmusyoki&langs_count=5&theme=dark)]()
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kurgat094&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kurgat094&theme=laytonmusyoki)](https://git.io/streak-stats)
