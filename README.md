@@ -47,11 +47,11 @@
 
  ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=laytonmusyoki&showicons=true&count_private=true&theme=dark)]()
+ <p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=laytonmusyoki&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=laytonmusyoki&theme=react" />
+</p>
 
- ---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laytonmusyoki&langs_count=5&theme=dark)]()
 
  ---
 
