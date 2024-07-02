@@ -34,5 +34,8 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laytonmusyoki&langs_count=5&theme=dark)]()
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=laytonmusyoki&row=2&column=3&theme=dark&rank=-C,-B)](https://github.com/laytonmusyoki/github-profile-trophy)
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laytonmusyoki&theme=dark)](https://git.io/streak-stats)
