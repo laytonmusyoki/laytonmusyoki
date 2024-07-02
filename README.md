@@ -21,7 +21,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laytonmusyoki&label=Profile%20views&color=0e75b6&style=flat" alt="laytonmusyoki" /> </p><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=laytonmusyoki&label=Profile%20views&color=0e75b6&style=flat" alt="laytonmusyoki" /> </p><br>
 
 ---
 
