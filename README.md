@@ -12,7 +12,7 @@
 
 <h3 align="left" color="teal">A passionate fullstack developer</h3>
 
-<img align="left" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="left" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laytonmusyoki&label=Profile%20views&color=0e75b6&style=flat" alt="laytonmusyoki" /> </p>
 
