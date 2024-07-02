@@ -30,9 +30,9 @@
 
 
 
-<p>&nbsp;[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=laytonmusyoki&showicons=true&count_private=true&theme=dark)]()
-</p>
+&nbsp;[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=laytonmusyoki&showicons=true&count_private=true&theme=dark)]()
 
-<p>[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laytonmusyoki&langs_count=5&theme=dark)]()</p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laytonmusyoki&langs_count=5&theme=dark)]()
 
 
