@@ -12,9 +12,9 @@
 
 ---
 
-<h3 align="left" color="teal">A passionate fullstack developer</h3>
+<h3 align="center" color="teal">A passionate fullstack developer</h3>
 
-<img align="left" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><br>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"><br>
 
 ---
 
