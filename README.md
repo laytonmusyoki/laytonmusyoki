@@ -54,8 +54,10 @@
 
 
  ---
- <p align="center">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=laytonmusyoki&row=2&column=3&theme=dark&rank=-C,-B)](https://github.com/laytonmusyoki/github-profile-trophy)
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=laytonmusyoki&theme=dark)](https://git.io/streak-stats)
-</p>
+
