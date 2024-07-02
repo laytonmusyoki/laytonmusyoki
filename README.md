@@ -7,6 +7,7 @@
 - 📫 How to reach me:- TEL: 0743602795 Email: laytonmatheka7@gmail.com
 
 
+<a href="https://gitroll.io/profile/uAFYjZQxR0SQEnVkEAt7braT1ASi2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uAFYjZQxR0SQEnVkEAt7braT1ASi2" alt="GitRoll Profile Badge"/></a>
 
 
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=FFF010&center=true&vCenter=true&width=440&lines=>The future is unwritten" alt="Typing SVG" />
